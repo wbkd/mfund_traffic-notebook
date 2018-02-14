@@ -1,4 +1,4 @@
-;year;nr;name;land;str_kl;kfz_r1;kfz_r2;sv_r1;sv_r2
+;year;nr;name;land;str_cl;cars_r1;cars_r2;trucks_r1;trucks_r2
 0;2016;2218;AD HH-Südost (O);HH;A;;;;
 1;2016;2217;AD HH-Südost (W);HH;A;;;;
 2;2016;2223;AK HH-Süd Fbez. S<->O;HH;A;;;;
