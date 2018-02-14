@@ -1,4 +1,4 @@
-# mfund traffic notebook
+# mFUND traffic notebook
 A Jupyter Notebook for visualizing traffic data. You can find the regarding post [on our blog](https://blog.webkid.io/analysing-data-with-jupyter-notebooks-and-pandas/).
 
 ### Install Anaconda
